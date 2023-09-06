@@ -1,16 +1,15 @@
-### Hi there 👋
+## 💻 Hi there 👋🏾, I am Naghmeh 👩🏾‍💻
+I am a recently graduated Software developer who is also interested in User Experience Design
+#
+- 🏡 Currently working on Odin Project Foundations
+- 🌱 I’m currently learning React
 
-<!--
-**nkabembo/nkabembo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Find me on the Web 🌐⚡
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/naghmeh-k/)
+- Portfolio Website: [Website](https://nkabembo.github.io/)
+#
+### Experience 🖥️✨👔
+Experience with Java with Unit Testing & mobile development, JavaScript, Html, Css,PHP,MySql, SQL,
+Python, Visual Basic, Drupal and Linux
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
