@@ -1,8 +1,5 @@
 ## 💻 Hi there 👋🏾, I am Naghmeh 👩🏾‍💻
-I am a recently graduated Software developer who is also interested in User Experience Design
-#
-- 🏡 Currently working on Odin Project Foundations
-- 🌱 I’m currently learning React
+I am a recently graduated Software developer
 
 ## Find me on the Web 🌐⚡
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/naghmeh-k/)
