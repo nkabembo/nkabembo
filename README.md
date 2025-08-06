@@ -1,13 +1,12 @@
 ## 💻 Hi there 👋🏾, I am Naghmeh 👩🏾‍💻
-I am Software developer
+I am Software developer. I am passionate about creating systems, technology and creating practical user experiences through my design work
 
 ## Find me on the Web 🌐⚡
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/naghmeh-k/)
 - Portfolio Website: [Website](https://nkabembo.github.io/)
 #
-### Experience 🖥️✨👔
-- Full stack Development
-- Databases
+### Current Interests 🖥️✨👔
+- python fullstack programming, front-ends,UI/UX Design
 #
 ### Languages & Tools
 <p align="left"> 
