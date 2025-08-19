@@ -2,7 +2,7 @@
 I am Software developer. I am passionate about creating systems, technology with purpose and creating practical user experiences through my design work
 
 ## Find me on the Web 🌐⚡
-My Portfolio Website: [Website](https://nkabembo.github.io/)        [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naghmeh-k/)
+My Portfolio Website: [Website](https://nkabembo.github.io/)  <br>      [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naghmeh-k/)
 ## What I am Focused on 🎋
 - Revamping my porfolio website
 -  Building Projects
