@@ -13,11 +13,11 @@ I am Software developer. I am passionate about creating systems, technology and 
 ## Dev tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ## Learning Goals
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) to make my Javascript code even better
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) to make my Javascript code even better <br>
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) & ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) to create cross platform mobile apps
 
 ## Fun Facts
-✨The first time I wrote "Hello World" in College was in Java
+✨The first time I wrote "Hello World" in College was in Java <br>
 🎞️ I Enjoy being partaking in Crafts and art, as it allows me to expand my creativity
 
 
