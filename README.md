@@ -1,9 +1,8 @@
 ## 💻 Hi there 👋🏾, I am Naghmeh 👩🏾‍💻
 I am Software developer. I am passionate about creating systems, technology with purpose and creating practical user experiences through my design work
 
-** Find me on the Web 🌐⚡
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naghmeh-k/) 
-- Portfolio Website: [Website](https://nkabembo.github.io/)
+## Find me on the Web 🌐⚡
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naghmeh-k/) Portfolio Website: [Website](https://nkabembo.github.io/)
 ## What I am Focused on 🎋
 - Revamping my porfolio website
 -  Building Projects
